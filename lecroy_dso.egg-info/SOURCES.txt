@@ -1,0 +1,7 @@
+setup.py
+lecroy_dso/__init__.py
+lecroy_dso/lecroy.py
+lecroy_dso.egg-info/PKG-INFO
+lecroy_dso.egg-info/SOURCES.txt
+lecroy_dso.egg-info/dependency_links.txt
+lecroy_dso.egg-info/top_level.txt
